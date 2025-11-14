@@ -1,0 +1,1 @@
+Este repositório contém exercícios da disciplina de Lógica de Programação da minha faculdade, desenvolvidos na linguagem C. O objetivo é praticar conceitos básicos de programação, como variáveis, estruturas condicionais, loops, funções e manipulação de dados.
